@@ -1,7 +1,7 @@
 {
 	"$schema": "https://openapi.vercel.sh/vercel.json",
 	"version": 2,
-	"alias": "https://nuro-dev-81d3.vercel.app",
+	"alias": "chen.jrfank.cc",
 	"cleanUrls": true,
 	"public": true,
 	"regions": ["lhr1"],
